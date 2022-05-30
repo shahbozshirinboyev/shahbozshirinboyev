@@ -1,6 +1,8 @@
 ### Hi, I'm Shahboz Shirinboyev 👋
 
-</ br>
+- 1 intrest
+- 2 intrest
+- 3 intrest
 
 ### Connect with me:
 
