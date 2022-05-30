@@ -1,4 +1,4 @@
-### <center> Hi, I'm Shahboz Shirinboyev 👋 </center>
+### <p align="center"> Hi, I'm Shahboz Shirinboyev 👋 </p>
 
 - 1 intrest
 - 2 intrest
