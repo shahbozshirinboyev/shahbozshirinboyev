@@ -1,4 +1,4 @@
-### Hi, I'm Shahboz Shirinboyev 👋
+### <center> Hi, I'm Shahboz Shirinboyev 👋 </center>
 
 - 1 intrest
 - 2 intrest
