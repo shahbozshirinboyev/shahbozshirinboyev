@@ -1,9 +1,9 @@
 ### <p align="center"> Hi, I'm Shahboz Shirinboyev 👋 </p>
 
 <p align="center">
-- 1 intrest
-- 2 intrest
-- 3 intrest
+- 1 intrest <\br>
+- 2 intrest <\br>
+- 3 intrest <\br>
 <p>
 
 ### <p align="center"> Connect with me: </p>
