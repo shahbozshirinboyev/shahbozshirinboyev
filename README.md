@@ -5,4 +5,4 @@
 - 3 intrest
 
 ### Connect with me:
-<a href="https:/t.me/sh_shirinboyev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></i></a>
+<a href="https:/t.me/sh_shirinboyev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25px"></i></a>
