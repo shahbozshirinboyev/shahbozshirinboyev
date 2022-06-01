@@ -1,5 +1,7 @@
 ### <p align="center"> Hi, I'm Shahboz Shirinboyev 👋 </p>
 
+<hr width="200px" height="7px">
+
 <p align="center">
 - 1 intrest <br>
 - 2 intrest <br>
