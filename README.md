@@ -11,5 +11,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shahboz.shirinboyev/"><img src="https://images.squarespace-cdn.com/content/v1/5b819b2845776e48dcfb5d5d/1579391318809-E9YYTAF61G9PZGVUKJKC/f_logo_RGB-Hex-Blue_512.png?format=1000w" width="25px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" width="25px"></a>
+  <a href="https://www.facebook.com/shahboz.shirinboyev/"><img src="https://images.squarespace-cdn.com/content/v1/5b819b2845776e48dcfb5d5d/1579391318809-E9YYTAF61G9PZGVUKJKC/f_logo_RGB-Hex-Blue_512.png?format=1000w" width="25px"></a>
 </p>
