@@ -1,8 +1,8 @@
-<hr width="100%" height="5px" align="center" color="#fff">
+<hr width="100%">
 
 ### <p align="center"> Hi, I'm Shahboz Shirinboyev 👋 </p>
 
-<hr width="100%" height="5px" align="center" color="#fff">
+<hr width="100%">
 
 <button color="red" style="background-color:red;">Telegram</button>
 
