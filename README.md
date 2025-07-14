@@ -40,7 +40,7 @@ Hi, I'm Shahboz — a passionate **Software Engineer** and **Full Stack Develope
   <img src="https://www.svgrepo.com/show/373554/django.svg" width="25px" alt="Django" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25px" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25px" alt="Git" title="Git" />
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="25px" alt="GitHub" title="GitHub" />
+<!--   <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="25px" alt="GitHub" title="GitHub" /> -->
 </p>
 
 ## Statistics
